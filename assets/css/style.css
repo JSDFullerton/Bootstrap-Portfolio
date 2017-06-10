@@ -1,0 +1,128 @@
+
+body {
+	background-image: url("../images/whirlpool.jpg");
+	color: #777777;
+
+}
+
+
+
+/*HEADER and NAV BAR*/
+.navbar-default {
+	background-color: white;
+	border: solid;
+	border-color: #cccccc;
+	border-width: 1px;
+}
+
+.navbar-header {
+	background-color: #4aaaa5;
+	padding-left: 10px;
+}
+
+.navbar-default .navbar-brand {
+	color: white;
+	font-size: 30px;
+	padding: 13px 50px;
+}
+
+
+/*BIO SECTION*/
+.panel > .panel-heading {
+	color: #4aaaa5;
+	font-size: 30px;
+	background-color: white;
+	border: solid;
+	border-color: #cccccc;
+	border-width: 1px;
+
+}
+
+.panel-body {
+	border: solid;
+	border-color: #cccccc;
+	border-width: 1px;
+}
+
+/*.img-thumbnail {
+	float: left;
+}*/
+
+/*p {
+	float:right;
+}*/
+
+
+
+
+
+/*CONTACT FORM*/
+.form-area {
+	background-color: white;
+	margin-bottom: 50px;
+}
+
+.form-area h3 {
+	color: #4aaaa5;
+	font-size: 30px;
+	margin: 0 15px;
+	margin-bottom: 0;
+}
+
+.form-area form {
+	padding: 0 20px;
+	padding-bottom: 40px;
+	border: solid;
+	border-color: #cccccc;
+	border-width: 1px;
+}
+
+
+
+/*CONNECT WITH ME*/
+.connect {
+	background-color: white;
+	padding-bottom: 30px;
+	width: 300px;
+	height: 180px;
+	margin-left: 70px;
+	border: solid;
+	border-color: #dddddd;
+	border-width: 1px;
+
+}
+
+
+h2 {
+	color: #4aaaa5;
+	text-align: center;
+	font-size: 20px;
+}
+
+
+.logo {
+	height: 60px;
+	width: 60px;
+}
+
+/*FOOTER BOOTSTRAP*/
+
+.footer {
+	text-align: center;
+	background-color: #666666;
+	height: 60px;
+	border-top: solid;
+	border-color: #4aaaa5;
+	border-width: 5px;
+
+}
+
+h3 {
+	font-size: 12px;
+	color: white;
+}
+
+
+
+
+
