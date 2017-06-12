@@ -45,13 +45,17 @@ body {
 	border-width: 1px;
 }
 
-/*.img-thumbnail {
+.panel img {
 	float: left;
-}*/
+	display: inline;
+	width: 200px;
+}
 
-/*p {
-	float:right;
-}*/
+.panel p {
+	float: left;
+	display: inline;
+}
+
 
 
 
@@ -125,6 +129,7 @@ h2 {
 	border-top: solid;
 	border-color: #4aaaa5;
 	border-width: 5px;
+
 
 }
 
